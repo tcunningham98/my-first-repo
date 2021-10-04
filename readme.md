@@ -14,13 +14,13 @@ I live in California and I want to be a software developer. I am currently takin
 2. The Untouchables
 3. The Long Good Friday
 
-Here is 'some code' in the middle of a sentence.
+Here is `some code` in the middle of a sentence.
 
-'''
+```
 This is
 a block
 of code
-'''
+```
 
 You can reach me [here](xerconium314@gmail.com).
 
