@@ -1,19 +1,18 @@
-# This is a large heading
+# Tanner Cunningham
 
-## This is a smaller heading
+### About Me
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in California and I want to be a software developer. I am currently taking a course on Unix.
 
-- This is
-- an unordered
-- list
+### Interests
+- Video Games
+- Computers
+- Stoicism
 
-1. This is
-2. an ordered
-3. list
+### Favorite Films
+1. The Shawshank Redemption
+2. The Untouchables
+3. The Long Good Friday
 
 Here is 'some code' in the middle of a sentence.
 
@@ -23,7 +22,7 @@ a block
 of code
 '''
 
-Here is how you make [a link](https://wikipedia.org/).
+You can reach me [here](xerconium314@gmail.com).
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.02/karl-moustache.jpg)
 
